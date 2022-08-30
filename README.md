@@ -18,3 +18,7 @@ Open your LinkedIn -> profile -> setting -> data privacy -> Get a copy of your d
 
 
 <p><img src="src/linkedin_data_pull.png" alt=""></p>
+
+ ### Libraries and packages for python notebook : 
+ 
+ - [pandas](https://pandas.pydata.org/)
