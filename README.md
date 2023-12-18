@@ -22,3 +22,5 @@ Open your LinkedIn -> profile -> setting -> data privacy -> Get a copy of your d
  ### Libraries and packages for python notebook : 
  
  - [pandas](https://pandas.pydata.org/)
+ - [PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
